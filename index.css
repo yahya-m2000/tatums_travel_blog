@@ -1,0 +1,32 @@
+/* *{  
+    background-color: lightgray;
+} */
+h3{
+    padding: 20px;
+}
+header{
+    padding: 20px;
+    background-image: url(https://images.unsplash.com/photo-1490735891913-40897cdaafd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwc2t5fGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+    color: azure;
+    background-size: cover;
+    border-radius: 25px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0px 10px 10px black;
+}
+main{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.subheading{
+    text-decoration-line: underline;
+}
+a:link{
+    color: turquoise;
+    text-decoration-line: none;
+}
+article{
+    background-image: linear-gradient(180deg, white, lightgray);
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 10px 10px;
+}
